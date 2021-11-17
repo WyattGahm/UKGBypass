@@ -1,0 +1,9 @@
+Package: com.wyattgahm.ukgbypass
+Name: UKGBypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Jailbreak detection bypass for UKG Workforce Mobile 
+Maintainer: Wyatt
+Author: Wyatt
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
